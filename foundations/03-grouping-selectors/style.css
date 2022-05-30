@@ -1,0 +1,15 @@
+/* style.css */
+
+.First{
+    background-color:rgb(0, 0, 0);
+    color: #ffffff;
+}
+
+.Second{
+    background-color: hsl(60, 100%, 50%);
+}
+
+.First,.Second{
+    font-size: 28px;
+    font-family: 'Helvetia','Times New Roman','sans-serif';
+}
